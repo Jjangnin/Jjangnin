@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
@@ -42,6 +41,16 @@
   <img src="https://img.shields.io/badge/Depth%20Estimation-1F618D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Neural%20Rendering-6C3483?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gaussian%20Splatting-922B21?style=for-the-badge"/>
+</p>
+
+---
+
+## Specialties
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA%20Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPU%20Acceleration-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Low--level%20Optimization-566573?style=for-the-badge"/>
 </p>
 
 ---
