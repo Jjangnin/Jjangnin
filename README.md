@@ -8,55 +8,41 @@
 
 # 👋 Jang Inseo
 
-> **AI & Deep Learning Developer**
+> **Vision AI & Deep Learning Developer**
 
 ---
 
-## Languages & Core Skills
+## Core Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## Web & Server
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
 
 ---
 
-## AI & Machine Learning
+## AI & Research Interest
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/fluency/96/visible.png"/>
+  <img src="https://img.icons8.com/fluency/96/3d-glasses.png"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision%20AI-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D%20Vision-884EA0?style=for-the-badge"/>
+</p>
 
-## Mobile & Cross-Platform
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-## Tools & IDEs
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Image%20Classification-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Depth%20Estimation-1F618D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neural%20Rendering-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gaussian%20Splatting-922B21?style=for-the-badge"/>
+</p>
 
 ---
 
