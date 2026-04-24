@@ -1,14 +1,29 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSEO'S%20GITHUB&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+# 👋 Jang Inseo
+
+> **M.S. Student @ Sungkyunkwan University (SKKU)**  
+> **Vision AI & 3D/4D Gaussian Splatting Researcher**
+
+---
+
+## Research Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3D%20Gaussian%20Splatting-922B21?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/4D%20Gaussian%20Splatting-641E16?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Compression-1F618D?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janginseo95&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Quantization-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pruning-117A65?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Distillation-7D3C98?style=for-the-badge"/>
 </p>
 
-# 👋 Jang Inseo
-
-> **Vision AI & Deep Learning Developer**
+<p align="center">
+  <img src="https://img.shields.io/badge/Neural%20Rendering-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D%20Vision-884EA0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision%20AI-2E86C1?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -16,31 +31,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
-## AI & Research Interest
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
-  <img src="https://img.icons8.com/fluency/96/visible.png"/>
-  <img src="https://img.icons8.com/fluency/96/3d-glasses.png"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vision%20AI-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3D%20Vision-884EA0?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Image%20Classification-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Depth%20Estimation-1F618D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neural%20Rendering-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gaussian%20Splatting-922B21?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
@@ -48,9 +40,9 @@
 ## Specialties
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CUDA%20Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/GPU%20Acceleration-2ECC71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Low--level%20Optimization-566573?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--time%20Rendering-1ABC9C?style=for-the-badge"/>
 </p>
 
 ---
