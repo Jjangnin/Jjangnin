@@ -47,15 +47,19 @@
 ## Specialties
 
 <p align="center">
+  <img src="https://img.shields.io/badge/3D/4D%20Gaussian%20Splatting-922B21?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neural%20Scene%20Compression-7D3C98?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model%20Compression-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quantization-5DADE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pruning-48C9B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distillation-AF7AC5?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3D%20Representation%20Learning-884EA0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neural%20Scene%20Compression-7D3C98?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quantization-5DADE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pruning-48C9B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Distillation-AF7AC5?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rate--Distortion%20Optimization-1F618D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Real--time%20Rendering-1ABC9C?style=for-the-badge"/>
 </p>
 
