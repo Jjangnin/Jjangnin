@@ -1,7 +1,8 @@
 # 👋 Jang Inseo
 
 > **M.S. Student @ Sungkyunkwan University (SKKU)**  
-> **Vision AI & 3D/4D Gaussian Splatting Researcher**
+> **3D/4D Gaussian Splatting Compression Researcher**
+> *Specializing in quantization and efficient model design*
 
 ---
 
